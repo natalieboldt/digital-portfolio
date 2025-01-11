@@ -249,17 +249,16 @@ nav ul li #c-button:active {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%); /* Centers the button */
-  font-size: 50px; /* Adjust size */
+  font-size: 75px; 
   color: white;
   background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
   padding: 20px;
-  border-radius: 50%; /* Makes the button circular */
+  border-radius: 50%; 
   display: flex;
   justify-content: center;
   align-items: center;
   transition: background-color 0.3s ease, transform 0.3s ease;
-  opacity: 0; /* Hide by default */
+  opacity: 0;
 }
 /* Footer */
 .footer {
