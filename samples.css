@@ -238,9 +238,11 @@ nav ul li #c-button:active {
   align-items: center;
   margin-top:50px;
 }
-.animation-row a {
+.animation-row a img {
   width:700px;
   height:auto;
+}
+.animation-row a {
   text-decoration:none;
 }
 
@@ -337,7 +339,7 @@ nav ul li #c-button:active {
     align-items: center;
     margin-top:50px;
   }
-  .animation-row video {
+  .animation-row a img {
     width:550px;
     height:auto;
   }
